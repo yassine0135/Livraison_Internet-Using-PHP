@@ -25,8 +25,4 @@ A simple and functional online delivery management system built using PHP and My
 ![WhatsApp Image 2025-04-16 at 19 20 11](https://github.com/user-attachments/assets/20885072-89c9-4b54-b0f2-a4f116c66f57)
 ![WhatsApp Image 2025-04-16 at 19 20 12 (1)](https://github.com/user-attachments/assets/f30ab7e7-fec5-4b69-8ab1-7dbaf020d1f5)
 
-## 📂 How to Run
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/online-delivery-php.git
